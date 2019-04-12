@@ -1,0 +1,29 @@
+body {
+	font-family: "Monaco", "Menlo", monospace;
+	color: rgb(60, 60, 60);
+}
+
+#content {
+	width: 680px;
+	margin: 0 auto;
+}
+
+h1 {
+	border-bottom: 1px silver solid;
+	margin: 0.34em 0;
+	color: purple;
+}
+
+h6 {
+	margin: 0.34em 0 2em 0;
+	font-weight: normal;
+	color: silver;
+}
+
+h6 a {
+	color: silver;
+}
+
+#content img {
+	width: 100%;
+}
