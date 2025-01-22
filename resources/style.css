@@ -1,35 +1,35 @@
 body {
-	font-family: "Monaco", "Menlo", monospace;
-	color: rgb(60, 60, 60);
+  font-family: "Monaco", "Menlo", monospace;
+  color: rgb(60, 60, 60);
 }
 
 #content {
-	width: 680px;
-	max-width: 100%;
-	margin: 0 auto;
+  width: 680px;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 h1 {
-	border-bottom: 1px silver solid;
-	margin: 0.34em 0;
-	color: purple;
+  border-bottom: 1px silver solid;
+  margin: 0.5em 0 0 0;
+  color: purple;
 }
 
-h2 {
-	font-size: 0.75em;
-	margin: 0.34em 0 2em 0;
-	font-weight: normal;
-	color: silver;
+.subheading {
+  font-size: 0.75em;
+  margin: 0.5em 0 2em 0;
+  font-weight: normal;
+  color: silver;
 }
 
-h2 span {
-	white-space: nowrap;
+.subheading span {
+  white-space: nowrap;
 }
 
 a {
-	color: silver;
+  color: silver;
 }
 
 #content img {
-	width: 100%;
+  width: 100%;
 }
